@@ -52,9 +52,5 @@ This dashboard tracks over **2.4M units sold** and **$332M in total profit**, of
 
 ---
 ## dashboard overview
+<img width="1075" height="538" alt="Slaes project" src="https://github.com/user-attachments/assets/5efed4fd-0886-43c3-a8f1-e719814b5aeb" />
 
-![Uploading image.png…]()
-
-*Note: This dashboard was developed to demonstrate proficiency in data modeling, UI/UX design for analytics, and business intelligence reporting.*
-
-3
